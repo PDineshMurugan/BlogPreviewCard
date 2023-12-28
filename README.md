@@ -17,7 +17,7 @@ This project demonstrates a responsive blog preview card created using HTML and 
 ## Demo
 
 Check out the live demo of the project:
-[Blog Preview Card Demo](dineshblogpreviewcard.lovestoblog.com)
+[Blog Preview Card Demo]([dineshblogpreviewcard.lovestoblog.com](http://dineshblogpreviewcard.lovestoblog.com/?i=1))
 
 ## Features
 
